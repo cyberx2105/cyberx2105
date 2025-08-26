@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Nur Hidayat (Dayat)
 
-<!--
-**cyberx2105/cyberx2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Hukum S1 @ Universitas Terbuka  
+⚖️ Fokus pada **Hukum, Cyber Law, dan Forensik Digital**  
+💻 Menekuni bidang **Cybersecurity & Ethical Hacking**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Saya sedang menekuni bidang hukum sekaligus keamanan siber, dengan tujuan untuk menjadi jembatan antara **legal expertise** dan **technical expertise**.  
+Minat utama saya meliputi:  
+- Cybercrime Law & Digital Forensics  
+- Data Protection & Privacy Compliance  
+- Ethical Hacking & Cybersecurity Governance  
+
+---
+
+## 🛠️ Skills & Tools
+- **Hukum:** Hukum Pidana, Perdata, Cyber Law, Forensik Digital  
+- **Teknis:** Networking, Linux, Wireshark, Nmap, Metasploit  
+- **Cybersecurity:** Ethical Hacking, DFIR, Security Fundamentals  
+
+---
+
+## 📚 Learning Roadmap
+- ✅ Hukum Pidana & Perdata  
+- ✅ Dasar Networking & Cybersecurity  
+- 🔄 Ethical Hacking (Footprinting, Scanning, Exploitation)  
+- 🔄 Digital Forensics & Incident Response  
+- ⏳ Cyber Policy & Governance  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@cyberx2105](https://github.com/cyberx2105)  
+- Email: *(isi emailmu di sini)*  
+- LinkedIn: *(opsional, kalau ada)*  
+
+---
+
+⭐️ *"Bridging the gap between Law and Cybersecurity."*  
