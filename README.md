@@ -33,8 +33,6 @@ Minat utama saya meliputi:
 
 ## 📫 Connect with Me
 - GitHub: [@cyberx2105](https://github.com/cyberx2105)  
-- Email: *(isi emailmu di sini)*  
-- LinkedIn: *(opsional, kalau ada)*  
 
 ---
 
